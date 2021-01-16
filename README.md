@@ -16,3 +16,4 @@ Additional Information
 ----------
 * Article: [The Secret Code: ASP.NET MVC Conventions](https://jeremybytes.blogspot.com/2020/02/the-secret-code-aspnet-mvc-conventions.html)
 * Article: [Generating Mazes in a Browser](https://jeremybytes.blogspot.com/2020/01/generating-mazes-in-browser.html)
+* CodeTour: [mvc-conventions-aspnet](https://github.com/jeremybytes/mvc-conventions-aspnet) - .NET Core 3.1 (the conventions are the same in .NET 5)
