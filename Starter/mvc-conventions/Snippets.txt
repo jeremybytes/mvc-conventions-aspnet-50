@@ -11,6 +11,7 @@ MazeModel.cs
 
 Home/Index.cshtml
 --------------------
+@model maze_web.Models.MazeModel
 
     <h1 class="display-4">Welcome</h1>
     <form action="/maze" method="post">
