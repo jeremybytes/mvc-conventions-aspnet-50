@@ -21,3 +21,4 @@ Additional Information
 * CodeTour: [mvc-conventions-aspnet](https://github.com/jeremybytes/mvc-conventions-aspnet) - .NET Core 3.1 (the conventions are the same in .NET 5)  
 * Article: [Generating Mazes in a Browser](https://jeremybytes.blogspot.com/2020/01/generating-mazes-in-browser.html)
 * Article: [Building a Web Front-End to Show Mazes in ASP.NET Core MVC](https://jeremybytes.blogspot.com/2020/01/building-web-front-end-to-show-mazes-in.html)
+* Logging: [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-5.0)
