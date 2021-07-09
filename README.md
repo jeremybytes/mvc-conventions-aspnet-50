@@ -17,6 +17,7 @@ For information on the Maze project, see "Generating Mazes in a Browser" & "Buil
 Additional Information
 ----------
 * Video Walkthrough (including details on the MazeWeb project): [CONDG Jan 2021 - ASP.NET MVC for Absolute Beginners](https://www.youtube.com/watch?v=dU1yyLPu2BE)  
+*Note: If you've seen the "conventions" part of the presentation, you can start at 52:00 to see the MazeWeb part.*
 * Tutorial: [Get Comfortable with .NET Core and the CLI](https://jeremybytes.blogspot.com/2019/11/tutorial-get-comfortable-with-net-core.html)
 * Article: [The Secret Code: ASP.NET MVC Conventions](https://jeremybytes.blogspot.com/2020/02/the-secret-code-aspnet-mvc-conventions.html)
 * CodeTour: [mvc-conventions-aspnet](https://github.com/jeremybytes/mvc-conventions-aspnet) - .NET Core 3.1 (the conventions are the same in .NET 5)  
